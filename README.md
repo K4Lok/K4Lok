@@ -10,11 +10,11 @@
 
 ---
 
-**Software engineer based in Macau.** I build practical AI tools, ship dev-tools real people use, and work on civic-tech for anti-corruption and public integrity.
+**Software engineer based in Macau**, currently at a FinTech company in Hong Kong. I build practical AI tools, ship dev-tools real people use, and work on civic-tech for anti-corruption and public integrity.
 
 ### 🔭 Now
 
-- 🇺🇳 **Contributor — Gracie**, an anti-corruption education initiative (Knowledge Foundation, UN-affiliated). Ongoing.
+- 🇺🇳 **Contributor — [Gracie](https://github.com/KnowledgeFound/kt-gracie)**, an anti-corruption education initiative by [Knowledge Foundation](https://github.com/KnowledgeFound) (UN-affiliated). Ongoing.
 
 ### 🏆 Civic-Tech & Integrity — 2025
 
@@ -27,14 +27,13 @@
 |---|---|---|
 | **Gemini Shortcuts** — keyboard-first shortcuts for Gemini in the browser | [Chrome Web Store](https://chromewebstore.google.com/detail/gemini-keyboard-shortcuts/lkbmckoflibeckkjajpiocadiaaikdof) · [`gemini-shortcuts`](https://github.com/K4Lok/gemini-shortcuts) | **434 users · 5.0★** |
 | **Open Docker** — open running Docker containers from Raycast | [Raycast Store](https://www.raycast.com/k4lok/open-docker) · [`raycast-open-docker`](https://github.com/K4Lok/raycast-open-docker) | **656 installs** |
-| **Aleph Daily** — autonomous Python agent that scrapes, summarizes, and digests news to Telegram | [`Aleph-Daily`](https://github.com/K4Lok/Aleph-Daily) | Public · self-hosted |
 | **docsite-to-md** — Rust CLI that converts documentation sites to clean Markdown | [`docsite-to-md`](https://github.com/K4Lok/docsite-to-md) | Public · Rust |
 | **clearnpmod** — Node CLI for cleaning stale `node_modules` directories | [`clearnpmod`](https://github.com/K4Lok/clearnpmod) | Public · Node |
 
 ### 🛠️ Selected work
 
 - **Knowledge Sphere** *(freelance, 2024–25)* — Production document-AI platform. Built end-to-end: async OCR ingestion (AWS Textract + Upstash QStash Workflow), hybrid retrieval (embedding + full-text + RRF), and an autonomous tool-calling agent for grounded document Q&A — refactored from a fixed pipeline to cut answer latency from 15-25s to 2-5s. Stack: `Next.js · TypeScript · Vercel AI SDK · OpenRouter (Gemini) · Azure OpenAI · AWS Textract · Upstash · PostgreSQL`.
-- **Zenta Tech / FinsMarket** *(2023–24)* — Scheduled jobs, simple stock trading, trading-competition events, mobile app, stock analysis reports.
+- **Zenta Tech / FinsMarket** *(2024–25)* — Scheduled jobs, simple stock trading, trading-competition events, mobile app, stock analysis reports.
 
 ### 🇲🇴 Macau
 
