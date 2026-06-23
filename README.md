@@ -47,11 +47,11 @@
 
 ### 🎓 Teaching
 
-Hosted **3 online IT workshops at UMac CPS (2022–23)**, ~40 students each — pre-AI HTML/CSS/JS + Python foundations, hand-built docs and exercises.
+Hosted **3 online IT workshops at UMac CPS (2022–23)**, ~40 students each — [Python](https://github.com/cpsumsu/CPS-Workshops/tree/main/workshops/%E5%88%A9%E7%94%A8Python%E5%8E%BB%E9%AB%94%E9%A9%97%E7%B7%A8%E7%A8%8B%E7%9A%84%E4%B8%96%E7%95%8C), [WordPress](https://github.com/cpsumsu/CPS-Workshops/tree/main/workshops/WordPress%E7%B6%B2%E7%AB%99%E8%A3%BD%E4%BD%9C%E5%B7%A5%E5%85%B7), and [front-end HTML/CSS/JS](https://github.com/cpsumsu/CPS-Workshops/tree/main/workshops/%E7%B6%B2%E9%A0%81%E4%B8%89%E5%85%84%E5%BC%9F-%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC%E6%96%B0%E6%89%8B%E6%9D%91) foundations. All [course materials](https://github.com/cpsumsu/CPS-Workshops), slides, and exercises hand-built — pre-AI, no co-pilot.
 
 ### Foundations earned, not generated
 
-I learned to build before AI was a co-pilot. **[100 consecutive days](https://github.com/K4Lok/100-Days-Web-Development)** of public web-dev practice in 2022, a [Next.js + Tailwind + Hygraph blog](https://github.com/K4Lok/personal-blog) from scratch, the React vocabulary one primitive at a time, and a 170-commit full-stack HTML/CSS/JS/PHP [Trello clone](https://github.com/K4Lok/task-master-trello-like-web-app). Foundations earned, not generated.
+I learned to build before AI was a co-pilot. **[100 consecutive days](https://github.com/K4Lok/100-Days-Web-Development)** of public web-dev practice in 2022, a [Next.js + Tailwind + Hygraph blog](https://github.com/K4Lok/personal-blog) from scratch, the React vocabulary one primitive at a time, and a 170-commit full-stack HTML/CSS/JS/PHP [Trello-inspired task board](https://github.com/K4Lok/task-master-trello-like-web-app). Foundations earned, not generated.
 
 ### 📜 Recognition & Research
 
@@ -79,5 +79,5 @@ Interactive [3D F1 car](https://github.com/K4Lok/threejs-f1-car) (click parts to
 
 ### 📫 Reach
 
-[![Email](https://img.shields.io/badge/Email-samkalok107@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samkalok107@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact@samkalok.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@samkalok.com)
 [![GitHub](https://img.shields.io/badge/GitHub-K4Lok-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K4Lok)
