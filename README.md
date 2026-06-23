@@ -25,8 +25,8 @@
 
 | Tool | Where | Traction |
 |---|---|---|
-| **Gemini Shortcuts** — keyboard-first shortcuts for Gemini in the browser | [Chrome Web Store](https://chromewebstore.google.com/detail/gemini-keyboard-shortcuts/lkbmckoflibeckkjajpiocadiaaikdof) · [`gemini-shortcuts`](https://github.com/K4Lok/gemini-shortcuts) | **434 users · 5.0★** |
-| **Open Docker** — open running Docker containers from Raycast | [Raycast Store](https://www.raycast.com/k4lok/open-docker) · [`raycast-open-docker`](https://github.com/K4Lok/raycast-open-docker) | **656 installs** |
+| **Gemini Shortcuts** — keyboard-first shortcuts for Gemini in the browser | [Chrome Web Store](https://chromewebstore.google.com/detail/gemini-keyboard-shortcuts/lkbmckoflibeckkjajpiocadiaaikdof) · [`gemini-shortcuts`](https://github.com/K4Lok/gemini-shortcuts) | ![users](https://img.shields.io/chrome-web-store/users/lkbmckoflibeckkjajpiocadiaaikdof?label=users&logo=googlechrome&logoColor=white&color=2F81F7) ![rating](https://img.shields.io/chrome-web-store/rating/lkbmckoflibeckkjajpiocadiaaikdof?label=rating&logo=googlechrome&logoColor=white&color=2ea043) |
+| **Open Docker** — open running Docker containers from Raycast | [Raycast Store](https://www.raycast.com/k4lok/open-docker) · [`raycast-open-docker`](https://github.com/K4Lok/raycast-open-docker) | ![installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.raycast.com%2Fapi%2Fv1%2Fextensions%2Fk4lok%2Fopen-docker&query=%24.download_count&label=installs&logo=raycast&logoColor=white&color=FF6363) |
 | **docsite-to-md** — Rust CLI that converts documentation sites to clean Markdown | [`docsite-to-md`](https://github.com/K4Lok/docsite-to-md) | Public · Rust |
 | **clearnpmod** — Node CLI for cleaning stale `node_modules` directories | [`clearnpmod`](https://github.com/K4Lok/clearnpmod) | Public · Node |
 
