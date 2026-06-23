@@ -30,6 +30,10 @@
 | **docsite-to-md** — Rust CLI that converts documentation sites to clean Markdown | [`docsite-to-md`](https://github.com/K4Lok/docsite-to-md) | Public · Rust |
 | **clearnpmod** — Node CLI for cleaning stale `node_modules` directories | [`clearnpmod`](https://github.com/K4Lok/clearnpmod) | Public · Node |
 
+### 🏗️ Building
+
+- 🫥 **[Poof — Blur Faces in Photos](https://apps.apple.com/app/poof-blur-faces-in-photos/id6780502489)** *(iOS · 2026)* — auto-detects faces and covers them with blur, pixelate, emoji, or solid color, fully **on-device** (no uploads, no account). A privacy-first indie app, just approved on the App Store. Stack: `Swift`.
+
 ### 🛠️ Selected work
 
 - **Knowledge Sphere** *(freelance, 2024–25)* — Production document-AI platform. Built end-to-end: async OCR ingestion (AWS Textract + Upstash QStash Workflow), hybrid retrieval (embedding + full-text + RRF), and an autonomous tool-calling agent for grounded document Q&A — refactored from a fixed pipeline to cut answer latency from 15-25s to 2-5s. Stack: `Next.js · TypeScript · Vercel AI SDK · OpenRouter (Gemini) · Azure OpenAI · AWS Textract · Upstash · PostgreSQL`.
